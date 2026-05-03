@@ -25,6 +25,6 @@ A curated list of awesome Opencart extensions, modules and themes
 
 ### Github Actions
 
-- [setup-opencart-action](https://github.com/brokeyourbike/setup-opencart-action) - Spins up a fresh, fully functional OpenCart 4 container environment for CI/CD testing.
-- [opencart-install-action](https://github.com/brokeyourbike/opencart-install-action) - Uses headless Chromium to automate the UI extraction and installation of `.ocmod.zip` files.
-- [prepare-opencart-module-action](https://github.com/brokeyourbike/prepare-opencart-module-action) - Automates the packaging and building of OpenCart 2 and 3 `.ocmod.zip` releases.
+- [setup-opencart-action](https://github.com/brokeyourbike/setup-opencart-action) - Boots a fresh OpenCart 4 container for testing.
+- [opencart-install-action](https://github.com/brokeyourbike/opencart-install-action) - Automates .ocmod.zip UI installations via headless browser.
+- [prepare-opencart-module-action](https://github.com/brokeyourbike/prepare-opencart-module-action) - Packages and builds .ocmod.zip releases for OpenCart 2 and 3.

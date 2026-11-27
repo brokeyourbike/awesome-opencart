@@ -22,6 +22,7 @@ A curated list of awesome Opencart extensions, modules and themes
 - [pro-meta-token](https://github.com/brokeyourbike/pro-meta-token-opencart) - Put Opencart access token in meta tag for easy access.
 - [image-php8-fix](https://github.com/brokeyourbike/image-php8-fix-opencart) - Image library fix for PHP8.
 - [disable-templates-from-db](https://github.com/brokeyourbike/disable-templates-from-db-opencart) - Disable loading templates from database, to improve loading speed.
+- [kriatiz-opencart-audit](https://github.com/Gunner91/kriatiz-opencart-audit) - Free read-only malware, hack and SEO scanner for OpenCart and ocStore 2.3/3.x: core file checksums, web shells, database injections, checkout skimmers.
 
 ### Github Actions
 
